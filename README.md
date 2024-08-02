@@ -16,7 +16,7 @@
 
 <h3>Contact</h3>
 <ul>
-     <li><a href="https://abdullohfolio.vercel.app/">Portfolio</a> My porfolio</li>
+     <li><a href="https://abullohfolio-2.vercel.app/">Portfolio</a> My porfolio</li>
      <li><a href="https://google.com">abdullohkurbonov2008@gmail.com</a> Email</li>
      <li><a href="https://www.instagram.com/a_qurbonov_/">a_qurbonov_</a> My Instagram</li>
      <li><a href="https://t.me/a_qurbobov1">a_qurbonov1</a> My Telegram</li>
