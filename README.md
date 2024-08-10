@@ -7,7 +7,7 @@
 <h2>Skills 🛠️</h2>
 
 <ul>
-     <li><b>Languages: </b>JavaScript, C</li>
+     <li><b>Languages: </b>JavaScript, Python ,C</li>
      <li><b>Frontend: </b>HTML5, CSS3, Bootstrap5, TailwindCSS, ReactJs, TypeScript</li>
      <li><b>Backend: </b>NodeJs, ExpressJs</li>
      <li><b>Databases: </b>MongoDB</li>
