@@ -7,8 +7,6 @@
      <li>📚 I’m currently learning everything about Frontend and Backend technologies</li>
 </ul>
 
-![skill](https://github.com/user-attachments/assets/ab8a3e43-3147-4f41-b69c-e155902a2792)
-
 <h2>Skills 🛠️</h2>
 <ul>
      <li><b>Languages: </b>JavaScript, Python ,C</li>
