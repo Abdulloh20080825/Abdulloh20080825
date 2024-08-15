@@ -6,6 +6,13 @@
 
 <h2>Skills 🛠️</h2>
 
+<h2>Hacking 👨‍💻</h1>
+<p>Currently I'm learning python for hacking python can be used to create viruses on a computer, mainly I'm studying Ethical Hacking on Kali Linux</p>
+<ul>
+     <li><b>Tools: </b>Kali Linux, Virtual Box</li>
+     <li><b>OS: </b>Kali Linux, Windows 11 Home</li>
+</ul>
+
 <ul>
      <li><b>Languages: </b>JavaScript, Python ,C</li>
      <li><b>Frameworks: </b>TailwindCSS, ReactJs, TypeScript, NodeJs, ExpressJs, VueJs, Bootstrap5</li>
