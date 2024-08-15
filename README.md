@@ -1,4 +1,3 @@
-<img src="user.svg" alt="Abdulloh Qurbonov logo"/>
 
 <h1>Hi I'm Abdulloh Qurbonov! 👋</h1>
 <ul>
