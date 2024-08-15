@@ -1,5 +1,3 @@
-![img](https://github.com/user-attachments/assets/f5532054-4219-4443-9b54-1cd0da3071ae)
-
 <img src="user.svg" alt="Abdulloh Qurbonov logo"/>
 
 <h1>Hi I'm Abdulloh Qurbonov! 👋</h1>
