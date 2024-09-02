@@ -8,6 +8,7 @@
 <h2>Skills 🛠️</h2>
 <ul>
      <li><b>Languages: </b>JavaScript, Python ,C</li>
+     <li><b>Libriarys: </b>Bootstrap, ReactJs , Moment, react-icons, font-awesome, cors, bcrypt, handlebars, dotwnv, cookieParser, flash, session,  </li>
      <li><b>Frameworks: </b>TailwindCSS, ReactJs, TypeScript, NodeJs, ExpressJs, VueJs, Bootstrap5</li>
      <li><b>Frontend: </b>HTML5, CSS3, Bootstrap5, TailwindCSS, ReactJs, TypeScript</li>
      <li><b>Backend: </b>NodeJs, ExpressJs</li>
