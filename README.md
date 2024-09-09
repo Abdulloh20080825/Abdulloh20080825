@@ -1,6 +1,7 @@
 # Hi, I'm Abdulloh Qurbonov! 👋
 
-### 🚀 About Me  
+### 🚀 About Me
+
 I'm a beginner full-stack developer passionate about learning web development technologies and building awesome applications.
 
 - 👨‍💻 Currently exploring **JavaScript**, **React**, **TypeScript**, and **Next.js**
@@ -9,7 +10,7 @@ I'm a beginner full-stack developer passionate about learning web development te
 
 ---
 
-## 🛠️ Skills  
+## 🛠️ Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5&logoColor=ed6a13)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3&logoColor=2965f1)
@@ -27,15 +28,17 @@ I'm a beginner full-stack developer passionate about learning web development te
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=c&logoColor=A8B9CC)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=yellow)
 
-
-## 💻 Hacking & Cybersecurity  
+## 💻 Hacking & Cybersecurity
 
 I'm currently learning **Python** for ethical hacking, focusing on creating secure systems and network protection. Exploring **Ethical Hacking** on **Kali Linux** with tools like:
 
-### 🛠 Tools:  
-- **Kali Linux**, **VirtualBox**
+### 🛠 Tools:
 
-### 💻 Operating Systems:  
+![VS Code](https://img.shields.io/badge/-VS%20Code-090909?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=for-the-badge&logo=pycharm&logoColor=white)
+
+### 💻 Operating Systems:
+
 - **Kali Linux**, **Windows 11 Home**
 
 ---
