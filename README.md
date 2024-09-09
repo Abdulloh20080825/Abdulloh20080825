@@ -1,32 +1,54 @@
+# Hi, I'm Abdulloh Qurbonov! 👋
 
-<h1>Hi I'm Abdulloh Qurbonov! 👋</h1>
-<ul>
-     <li>👨‍💻 I’m currently studying on web development technologies like JavaScript, ReactJs, TypeScript, NextJs</li>
-     <li>📚 I’m currently learning everything about Frontend and Backend technologies</li>
-</ul>
+### 🚀 About Me  
+I'm a beginner full-stack developer passionate about learning web development technologies and building awesome applications.
 
-<h2>Skills 🛠️</h2>
-<ul>
-     <li><b>Languages: </b>JavaScript, Python ,C</li>
-     <li><b>Libriarys: </b>Bootstrap, ReactJs , Moment, react-icons, font-awesome, cors, bcrypt, handlebars, dotwnv, cookieParser, flash, session,  </li>
-     <li><b>Frameworks: </b>TailwindCSS, ReactJs, TypeScript, NodeJs, ExpressJs, VueJs, Bootstrap5</li>
-     <li><b>Frontend: </b>HTML5, CSS3, Bootstrap5, TailwindCSS, ReactJs, TypeScript</li>
-     <li><b>Backend: </b>NodeJs, ExpressJs</li>
-     <li><b>Databases: </b>MongoDB</li>
-     <li><b>Total projects: </b>15 </li>
-</ul>
+- 👨‍💻 Currently exploring **JavaScript**, **React**, **TypeScript**, and **Next.js**
+- 📚 Learning both **Frontend** and **Backend** technologies to become a versatile developer
+- 🌱 Diving into **Ethical Hacking** and cybersecurity using **Python** and **Kali Linux**
 
-<h2>Hacking 👨‍💻</h1>
-<p>Currently I'm learning python for hacking python can be used to create viruses on a computer, mainly I'm studying Ethical Hacking on Kali Linux</p>
-<ul>
-     <li><b>Tools: </b>Kali Linux, Virtual Box</li>
-     <li><b>OS: </b>Kali Linux, Windows 11 Home</li>
-</ul>
+---
 
-<h3>Contact</h3>
-<ul>
-     <li><a href="https://abullohfolio-2.vercel.app/">Portfolio</a> My porfolio</li>
-     <li><a href="https://google.com">abdullohkurbonov2008@gmail.com</a> Email</li>
-     <li><a href="https://www.instagram.com/a_qurbonov_/">a_qurbonov_</a> My Instagram</li>
-     <li><a href="https://t.me/a_qurbobov1">a_qurbonov1</a> My Telegram</li>
-</ul>
+## 🛠️ Skills  
+
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5&logoColor=ed6a13)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3&logoColor=2965f1)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=7952b3)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-090909?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass&logoColor=cc6699)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=efd81d)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=61dafb)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=nodedotjs&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/-Express.js-090909?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github&logoColor=white)
+![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=yellow)
+
+
+## 💻 Hacking & Cybersecurity  
+
+I'm currently learning **Python** for ethical hacking, focusing on creating secure systems and network protection. Exploring **Ethical Hacking** on **Kali Linux** with tools like:
+
+### 🛠 Tools:  
+- **Kali Linux**, **VirtualBox**
+
+### 💻 Operating Systems:  
+- **Kali Linux**, **Windows 11 Home**
+
+---
+
+## 📊 GitHub Stats
+
+![Abdulloh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdulloh20080825&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Find Me Here
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-090909?style=for-the-badge&logo=vercel&logoColor=white)](https://abullohfolio-2.vercel.app/)  
+[![Email](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=gmail&logoColor=red)](mailto:abdullohkurbonov2008@gmail.com)  
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/a_qurbonov_/)  
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/a_qurbobov1)
