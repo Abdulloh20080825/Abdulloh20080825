@@ -20,6 +20,7 @@ I'm a beginner full-stack developer passionate about learning web development te
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=efd81d)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=61dafb)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![Next.js](https://img.shields.io/badge/Next.js-090909?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=nodedotjs&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/-Express.js-090909?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=47A248)
