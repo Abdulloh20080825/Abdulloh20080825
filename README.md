@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-I'm a beginner full-stack developer passionate about learning web development technologies and building awesome applications.
+I'm a string junior full-stack developer passionate about learning web development technologies and building awesome applications.
 
 - 👨‍💻 Currently exploring **JavaScript**, **React**, **TypeScript**, and **Next.js**
 - 📚 Learning both **Frontend** and **Backend** technologies to become a versatile developer
