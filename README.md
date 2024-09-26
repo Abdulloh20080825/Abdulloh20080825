@@ -135,7 +135,7 @@ I'm currently learning **Python** for ethical hacking, focusing on creating secu
 <!-- BLOG-POST-LIST:START -->
 - [How I Built a Full-stack App with React and Node.js](https://example.com)
 - [JavaScript Performance Tips](https://example.com)
-- [Why You Should Learn TypeScript in 2024](https://example.com)
+- [Why You Should Learn Php in 2024](https://example.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
