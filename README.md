@@ -70,17 +70,8 @@
 
 ---
 
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How I Built a Full-stack App with React and Node.js](https://example.com)
-- [JavaScript Performance Tips](https://example.com)
-- [Why You Should Learn Php in 2024](https://example.com)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### 🤝 Let's Connect
 - [Instagram](https://www.instagram.com/a_qurbonov_/)
 - [Telegram](https://t.me/whoami_ab)
-- [Personal Website](https://abdullohkurbonov.com)
+- [Personal Website](https://abdullohfolio-3.vercel.app/)
 
