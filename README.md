@@ -68,6 +68,6 @@
 
 ### 🤝 Let's Connect
 - [Instagram](https://www.instagram.com/a_qurbonov_/)
-- [Telegram](https://t.me/whoami_ab)
+- [Telegram](https://t.me/abu_qurbonov)
 - [Personal Website](https://abdullohfolio-3.vercel.app/)
 
