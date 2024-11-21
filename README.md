@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **React and Node.js projects**
-- 🌱 I’m currently learning **Advanced NextJs, Python, PHP, TypeSctipt**
+- 🌱 I’m currently learning **Advanced Frontend & Backend technologies**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Full-stack development, REST APIs, and React**
 - 📫 Reach me at: [abdullohkurbonov2008@gmail.com](mailto:abdullohkurbonov2008@gmail.com)
