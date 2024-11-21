@@ -47,11 +47,6 @@
   
   <!-- Libraries -->
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
-  <img src="https://img.shields.io/badge/Semantic_UI_React-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white" alt="Semantic UI React" />
-  <img src="https://img.shields.io/badge/Class_Components-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Class Components" />
-  <img src="https://img.shields.io/badge/Functional_Components-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Functional Components" />
 </p>
 
 
