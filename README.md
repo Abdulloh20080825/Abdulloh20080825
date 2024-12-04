@@ -5,17 +5,19 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/a_qurbonov_"><img src="https://img.shields.io/badge/Instagram-f542e0?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/a_qurbonov_"><img src="https://img.shields.io/badge/Instagram-f542e0?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:abdullohkurbonov2008@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/abdulloh_qurbonovvv"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://abdullohfolio-3.vercel.app/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **React and Node.js projects**
+- 🔭 I’m currently working on **React, Node.js, and Electron.js projects**
 - 🌱 I’m currently learning **Advanced Frontend & Backend technologies**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Full-stack development, REST APIs, and React**
+- 💬 Ask me about **Full-stack development, REST APIs, React, and Electron.js**
 - 📫 Reach me at: [abdullohkurbonov2008@gmail.com](mailto:abdullohkurbonov2008@gmail.com)
 
 ---
@@ -38,6 +40,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron.js" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
   
@@ -49,14 +52,13 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
 </p>
 
-
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulloh20080825&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulloh20080825&theme=radical" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulloh20080825&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulloh20080825&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulloh20080825&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulloh20080825&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -65,4 +67,3 @@
 - [Instagram](https://www.instagram.com/a_qurbonov_/)
 - [Telegram](https://t.me/abdulloh_qurbonovvv)
 - [Personal Website](https://abdullohfolio-3.vercel.app/)
-
